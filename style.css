@@ -8,6 +8,5 @@ h1 {
 }
 
 .rebajado {
-    font-weight: bold;
-    text-transform: uppercase;
+    color: blue;
 }
