@@ -6,3 +6,8 @@ body {
 h1 {
     font-size: 32px;
 }
+
+.rebajado {
+    font-weight: bold;
+    text-transform: uppercase;
+}
